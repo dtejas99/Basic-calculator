@@ -25,9 +25,9 @@ Square button layout with modern styling
 Technologies Used
 
 
-HTML5 for structure
+HTML for structure
 
-CSS3 for styling
+CSS for styling
 
 JavaScript (Vanilla) for functionality
 
